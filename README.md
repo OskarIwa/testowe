@@ -18,3 +18,4 @@ Próba pracy
 
 coś coś tam
 >>>>>>> bf20ffa948e517bfc251c45d16f698821894970e
+ej

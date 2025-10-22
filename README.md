@@ -9,4 +9,4 @@ Próba pracy
 
 coś coś 
 20102025
-koniec
+koniec x

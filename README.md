@@ -19,4 +19,6 @@ nie wiem
 
 
 
+dodaje
+
 rfdgvdvdf

@@ -19,6 +19,4 @@ nie wiem
 
 
 
-dodaje
-
 rfdgvdvdf
